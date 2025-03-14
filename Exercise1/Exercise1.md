@@ -1,15 +1,19 @@
-# The Great Recipe Book Challenge
+# Recipe Book Challenge
 ### IEEE Pixel Flow Exercise 1
 
 Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and GitHub by contributing to a collaborative recipe book. Each task will teach you essential Git concepts while building something fun together.
 
+---
+
 ## General Rules
 - Name your branches: `yourname-feature` (like `johndoe-italian`)
 - Name your recipes: `yourname-recipe-name.md` (like `johndoe-carbonara.md`)
-- Stuck? Check out the Hints file - it's super detailed!
-- You are free to Google / ChatGPT (use the internet and AI tools), but type the Git commands YOURSELF in the terminal - that's how you'll learn. DO NOT COPY PASTE COMMANDS IN THE TERMINAL.
-- Not sure which Git command to use? The Hints file has your back. You can refer to it for any sub task in any task
+- Stuck? Check out the Hints file - it's super detailed! The Hints file contains all the commands you will need to complete every subtask in every task! But type them out yourself, do not copy-paste! 
+- You are free to use Google, ChatGPT and other AI tools for all sorts of help - But finally type the Git commands YOURSELF in the terminal - that's how you'll learn. DO NOT copy-paste commands into the terminal. 
 - Questions? We're here to help - feel free to contact us anytime : )
+- Finally, make sure you understand every command that you are using. We're assuming you have completed the resources we sent : )
+- Ideally, check the hints file for every task (even if you're done with it)
+---
 
 ## Tasks
 
@@ -31,6 +35,8 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    - Title: "New Recipe: [Your Name]'s [Recipe Name]"
    - Description: Briefly describe your recipe and what makes it special
 
+---
+
 ### Task 2: Working with .gitignore
 1. Create a text file with your secret recipe:
    ```
@@ -41,6 +47,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
 3. Open the `.gitignore` file and add your secret file name on a new line
 4. Create a commit with the message: "Update gitignore to protect secret recipe"
 5. Verify your secret file is not being tracked (it should not appear in git status)
+
+---
+
 
 ### Task 3: Resolving Conflicts
 1. Update your main branch:
@@ -60,6 +69,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    - Remove the conflict markers
    - Save and commit with message: "Resolve conflict and add new tips"
 
+---
+
+
 ### Task 4: Git Log and History
 1. Use Git's history tools to investigate:
    - Find who last modified `mentor-classic-carbonara.md` and what they changed
@@ -67,6 +79,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    - Pick another mentee from your group and list all their commits
    - Look at line 15 in `mentor-classic-carbonara.md` and find who added it
 2. Write down your findings in a new file called `yourname-investigation.md`
+
+---
+
 
 ### Task 5: Rebasing and Cleaning History
 1. Create a branch named `yourname-formatting` (Example: `johndoe-formatting`)
@@ -77,6 +92,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    Third commit: Add bullet points to ingredient list (with - ) if not already done, add another ingredient to the list
    ```
 3. Combine these three commits into one commit with the message: "Format recipe file" using git rebase(check hints if needed) 
+
+---
+
 
 ### Task 6: Branch Management
 1. By this point, you should have these branches:
@@ -97,6 +115,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    Note: Only delete branches that are fully merged. If unsure, check with us mentors.
 
 
+---
+
+
 ### Task 7: Tagging Releases
 1. Create a tag for your recipe version:
    ```
@@ -105,6 +126,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    ```
 2. Add this message to your tag: "First recipe contribution by [Your Name]"
 3. Push your tag to the repository
+
+---
+
 
 ### Task 8: Undoing Changes
 1. Open your recipe file and make these exact changes:
@@ -119,6 +143,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
    - After committing: Undo the wrong step
    (Ask your mentor for hints if needed)
 
+---
+
+
 ### Task 9: Stashing Changes
 1. Create a new branch called `yourname-variations` from your recipe branch
 2. Start adding this Variations section to your recipe file:
@@ -131,7 +158,7 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
       - Add red pepper flakes to taste
       - Include one minced garlic clove
    ```
-3. Your mentors, Swaraj and Visruth point out there's a typo in `mentor-classic-carbonara.md` that needs urgent fixing.
+3. Your mentors, Swaraj and Vishruth point out there's a typo in `mentor-classic-carbonara.md` that needs urgent fixing.
    Each mentee has been assigned a specific typo to fix:
    - Aryan: Fix "chese" to "cheese" in Description
    - Deepthi: Fix "spagheti" to "spaghetti" in Ingredients
@@ -153,6 +180,9 @@ Welcome to the Recipe Book Challenge! In this exercise, you'll learn Git and Git
 5. Create a new file called `yourname-commands.md` with all the git commands you used to complete this task
 
 Note: Only fix your assigned typo. If you notice other typos, do not fix them - they are assigned to other mentees.
+
+---
+
 
 ### Task 10: Final Challenge
 1. Create a branch named `yourname-final` (Example: `johndoe-final`)
