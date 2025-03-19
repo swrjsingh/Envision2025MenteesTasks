@@ -28,6 +28,8 @@ A traditional Roman pasta dish featuring eggs, hard chese, cured pork, and black
 - Use pasta water to adjust consistency
 - Serve immediately while hot
 - Keep stirring while adding the egg mixture to prevent scrambling
+- Use high-quality Pecorino Romano cheese for the best flavor
+- Cook the guanciale until crispy for a rich, authentic taste
 
 ## Typo Assignments for Mentees
 - Aryan: Fix "chese" to "cheese" in Description
