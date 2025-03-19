@@ -38,6 +38,6 @@ A traditional Roman pasta dish featuring eggs, hard chese, cured pork, and black
 - Aryan: Fix "chese" to "cheese" in Description
 - Deepthi: Fix "spagheti" to "spaghetti" in Ingredients
 - Devansh: Fix "panceta" to "pancetta" in Ingredients
-- Rohit: Fix "larg" to "large" in Ingredients
+- Rohit: Fix "large" to "large" in Ingredients
 - Shubh: Fix "Romani" to "Romano" in Ingredients
 - Rohan: Fix "Regiano" to "Reggiano" in Ingredients
