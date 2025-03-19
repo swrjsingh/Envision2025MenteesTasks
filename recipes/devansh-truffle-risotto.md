@@ -45,6 +45,16 @@ Truffle Risotto is a luxurious and creamy Italian dish that highlights the rich,
 
 ------------------------------------------------------------------------------------------------
 
+## Variations
+1. Vegetarian version:
+   - Replace pancetta with sautéed mushrooms
+   - Add a pinch of smoked paprika for depth
+2. Spicy version:
+   - Add red pepper flakes to taste
+   - Include one minced garlic clove
+
+------------------------------------------------------------------------------------------------
+
 ## Last Modified
 - Initial recipe by: Devansh Sharma
 - Last updated: 19/03/25
