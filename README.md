@@ -28,6 +28,7 @@ Learn essential Git concepts by contributing to a collaborative recipe book. Thi
 5. Ask your mentors for help when needed
 
 ## 🤝 Contributors
+- Devansh Sharma
 
 ### Mentors
 - Swaraj Singh
