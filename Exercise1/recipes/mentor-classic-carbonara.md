@@ -6,7 +6,7 @@ A traditional Roman pasta dish featuring eggs, hard chese, cured pork, and black
 
 ## Ingredients
 - 400g spagheti
-- 200g panceta
+- 200g pancetta
 - 4 larg eggs
 - 100g Pecorino Romani
 - 100g Parmigiano Regiano

@@ -34,7 +34,7 @@ A tasty variation of Ladenia is to add crumbled feta cheese on top before baking
 ---
 
 ## Other names
-Ladopita
+Ladopita 
 
 ## Last Modified
 - Initial recipe by: [Rohith P]
