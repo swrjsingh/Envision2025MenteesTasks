@@ -15,6 +15,7 @@ Mochi is a traditional Japanese rice cake made from glutinous rice. It's soft, c
 - Matcha powder (optional)  
 - Kinako (roasted soybean flour) (optional)  
 
+
 ---  
 
 ## Instructions  
@@ -24,6 +25,7 @@ Mochi is a traditional Japanese rice cake made from glutinous rice. It's soft, c
 4. Let it cool slightly, then divide into small pieces.  
 5. Flatten each piece, add red bean paste or desired filling, and seal.  
 6. Dust with cornstarch, matcha powder, or kinako before serving.  
+
 
 ---  
 

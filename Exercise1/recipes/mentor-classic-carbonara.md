@@ -2,7 +2,7 @@
 ### Created by: Swaraj and Vishruth
 
 ## Description
-A traditional Roman pasta dish featuring eggs, hard chese, cured pork, and black peper.
+A traditional Roman pasta dish featuring eggs, hard cheese, cured pork, and black peper.
 
 ## Ingredients
 - 400g spagheti
