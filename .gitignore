@@ -20,9 +20,13 @@ Thumbs.db
 # Environment variables
 .env
 .env.local 
+<<<<<<< HEAD
 
 rohithp-secret-recipe.txt
 
 devansh-secret-recipe.txt
 
 aryan-secret-recipe.txt
+
+deepthi-secret-recipe.txt
+
