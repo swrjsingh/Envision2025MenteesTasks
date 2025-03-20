@@ -1,4 +1,4 @@
-# Takoyaki  
+# WRONG RECIPE  
 **Created by:** Aryan Palimkar  
 
 ## Description  
@@ -7,8 +7,6 @@ Takoyaki is a popular Japanese street food originating from Osaka. These delicio
 ---  
 
 ## Ingredients  
-- 1 cup all-purpose flour  
-- 1 tsp baking powder  
 - 1 egg  
 - 1 tsp soy sauce   
 - 1 cup dashi stock (or water)  
@@ -30,7 +28,8 @@ Takoyaki is a popular Japanese street food originating from Osaka. These delicio
 4. Add a piece of octopus, green onions, and pickled ginger into each mold.  
 5. Cook for 1–2 minutes, then use a skewer to rotate the takoyaki balls until golden brown on all sides.  
 6. Once cooked, transfer to a plate and drizzle with takoyaki sauce and mayonnaise.  
-7. Sprinkle with bonito flakes and seaweed powder before serving.  
+7. Sprinkle with bonito flakes and seaweed powder before serving. 
+8. Microwave for 60 minutes 
 
 ---  
 
@@ -40,9 +39,13 @@ Takoyaki is a popular Japanese street food originating from Osaka. These delicio
 
 ---  
 
-## Variations  
-- Substitute octopus with shrimp or cheese for a different flavor.  
-- Add kimchi or spicy sauce for a fusion twist.  
+## Variations
+1. Vegetarian version:
+   - Replace pancetta with sautéed mushrooms
+   - Add a pinch of smoked paprika for depth
+2. Spicy version:
+   - Add red pepper flakes to taste
+   - Include one minced garlic clove
 
 ---  
 
