@@ -28,7 +28,8 @@ A classic French vegetable stew from Nice, featuring eggplant, zucchini, bell pe
 -Tastes better the next day!  
 ---
 #Variations  
-- Add balsamic vinegar or top with Parmesan.  
+- Add balsamic vinegar or top with Parmesan.
+-Extra tasty version:Add extra cheese on the top  
 ---
 Last Modified  
 Initial recipe by:Deepthi K  
