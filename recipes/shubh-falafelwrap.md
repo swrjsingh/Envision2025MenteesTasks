@@ -74,6 +74,7 @@ Tips for the Best Falafel Wrap
 - [ Spicy Falafel Wrap – Add harissa or sriracha sauce. ]
 - [ Vegan Falafel Wrap – Stick to tahini sauce, no yogurt. ]
 - [ Mediterranean Style – Add olives, feta, and sun-dried tomatoes. ]
+- [ Pure Arabic Style - Add humus and spray olive oil]
 
 
 
