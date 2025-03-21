@@ -35,6 +35,7 @@ A traditional Roman pasta dish featuring eggs, hard cheese, cured pork, and blac
 - Tip: Warm the serving bowls before plating
 - Tip: Always reserve some pasta water before draining
 - Tip: Warm the serving bowls before plating
+- Tip: Always reserve some pasta water before draining
 
 ## Typo Assignments for Mentees
 - Aryan: Fix "chese" to "cheese" in Description
