@@ -30,6 +30,9 @@ Learn essential Git concepts by contributing to a collaborative recipe book. Thi
 ## 🤝 Contributors
 - Devansh Sharma-Truffle Risotto
 - Rohith P - Ladenia
+- Aryan Palimkar - Mochi
+- Deepthi K -Ratatouille
+
 
 ### Mentors
 - Swaraj Singh
