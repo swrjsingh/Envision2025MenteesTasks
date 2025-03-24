@@ -1,21 +1,21 @@
 # Recipe name:RATATOUILLE
-Created by:Deepthi K  
+- Created by:Deepthi K  
 ---
 # Description
-A classic French vegetable stew from Nice, featuring eggplant, zucchini, bell peppers, and tomatoes. Perfect as a side or main dish.  
+- A classic French vegetable stew from Nice, featuring eggplant, zucchini, bell peppers, and tomatoes. Perfect as a side or main dish.  
 ---
 # Ingredients  
--1 medium eggplant, diced  
--2 zucchinis, diced  
--1 red bell pepper, diced  
--1 yellow bell pepper, diced  
--1 onion, chopped  
--4 garlic cloves, minced  
--4 tomatoes, diced (or 1 can crushed tomatoes)  
--3 tbsp olive oil  
--1 tsp each thyme, rosemary, oregano  
--Salt, pepper to taste  
--Fresh basil for garnish  
+- 1 medium eggplant, diced  
+- 2 zucchinis, diced  
+- 1 red bell pepper, diced  
+- 1 yellow bell pepper, diced  
+- 1 onion, chopped  
+- 4 garlic cloves, minced  
+- 4 tomatoes, diced (or 1 can crushed tomatoes)  
+- 3 tbsp olive oil  
+- 1 tsp each thyme, rosemary, oregano  
+- Salt, pepper to taste  
+- Fresh basil for garnish  
 ---
 # Instructions  
 1. Heat 2 tbsp olive oil in a pot. Sauté onion and garlic until soft (5 mins).  
