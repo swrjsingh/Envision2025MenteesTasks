@@ -15,8 +15,16 @@ Learn essential Git concepts by contributing to a collaborative recipe book. Thi
 
 [Start Exercise 1 →](./Exercise1/Exercise1.md)
 
+### Exercise 2: PyTorch Fundamentals
+Dive into the world of PyTorch by building a Weather Station system. This exercise covers:
+- Tensor Creation and Manipulation
+- Understanding tensor properties
+- Performing mathematical operations, including element-wise addition, subtraction, multiplication, and division
+- And more!
+
+[Start Exercise 2 →](./Exercise2/Exercise2.md)
+
 ### Up Next
-- Exercise 2: PyTorch
 - Exercise 3: Computer Vision and GAN with PyTorch
 
 ## 📝 How to Use This Repository
@@ -29,6 +37,8 @@ Learn essential Git concepts by contributing to a collaborative recipe book. Thi
 
 ## 🤝 Contributors
 - Devansh Sharma-Truffle Risotto
+- Aryan Palimkar - Mochi
+- Deepthi K -Ratatouille
 
 ### Mentors
 - Swaraj Singh
