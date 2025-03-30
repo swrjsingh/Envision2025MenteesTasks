@@ -25,6 +25,7 @@ Dive into the world of PyTorch by building a Weather Station system. This exerci
 [Start Exercise 2 →](./Exercise2/Exercise2.md)
 
 ### Up Next
+
 - Exercise 3: Computer Vision and GAN with PyTorch
 
 ## 📝 How to Use This Repository
@@ -39,6 +40,7 @@ Dive into the world of PyTorch by building a Weather Station system. This exerci
 - Devansh Sharma-Truffle Risotto
 - Aryan Palimkar - Mochi
 - Deepthi K -Ratatouille
+- Rohith P - Ladenia
 
 ### Mentors
 - Swaraj Singh
