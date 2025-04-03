@@ -37,8 +37,10 @@ Dive into the world of PyTorch by building a Weather Station system. This exerci
 
 ## 🤝 Contributors
 - Devansh Sharma-Truffle Risotto
+- Rohith P - Ladenia
 - Aryan Palimkar - Mochi
 - Deepthi K -Ratatouille
+
 
 ### Mentors
 - Swaraj Singh
