@@ -28,7 +28,7 @@ Dive into the world of PyTorch by building a Weather Station system. This exerci
 Evaluation (and self eval) on all important concepts in classical machine learning and deep learning. 
 - Complete the Google Doc assignments sent to each mentee!
 
-- [Start Exercise 3 →](https://docs.google.com/document/d/1e345FRWzjns3JnsQjvXkqorHXaPVl_IP8Qv1foCEA_I/edit?tab=t.0)
+[Start Exercise 3 →](https://docs.google.com/document/d/1e345FRWzjns3JnsQjvXkqorHXaPVl_IP8Qv1foCEA_I/edit?tab=t.0)
 
 ### Up Next
 
