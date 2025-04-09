@@ -24,9 +24,15 @@ Dive into the world of PyTorch by building a Weather Station system. This exerci
 
 [Start Exercise 2 →](./Exercise2/Exercise2.md)
 
+### Exercise 3: Evaluation - Classical ML and DL
+Evaluation (and self eval) on all important concepts in classical machine learning and deep learning. 
+- Complete the Google Doc assignments sent to each mentee!
+
+- [Start Exercise 3 →](https://docs.google.com/document/d/1e345FRWzjns3JnsQjvXkqorHXaPVl_IP8Qv1foCEA_I/edit?tab=t.0)
+
 ### Up Next
 
-- Exercise 3: Computer Vision and GAN with PyTorch
+- Exercise 4: Multiple GAN Implementations with PyTorch
 
 ## 📝 How to Use This Repository
 
