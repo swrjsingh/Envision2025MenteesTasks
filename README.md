@@ -44,19 +44,17 @@ Evaluation (and self eval) on all important concepts in classical machine learni
 5. Ask your mentors for help when needed
 
 ## 🤝 Contributors
-- Devansh Sharma-Truffle Risotto
-- Rohith P - Ladenia
-- Aryan Palimkar - Mochi
-- Deepthi K -Ratatouille
-- Rohith P - Ladenia
-
 
 ### Mentors
 - Swaraj Singh
 - Vishruth Srivatsa
 
 ### Mentees
-<!-- This section will be populated by mentees as part of Exercise 1 Task 10-->
+- Devansh Sharma
+- Rohith P
+- Aryan Palimkar
+- Deepthi K
+- Rohith P
 
 ## 🔗 Useful Links
 - [Git Documentation](https://git-scm.com/doc)
